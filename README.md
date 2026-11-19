@@ -167,7 +167,7 @@ Windows 11; Python 3.14; Claude Code 2.1.30x; Codex CLI 0.153. Other versions ma
 
 ## Disclaimer
 
-This is a personal project, shared in a personal capacity. It is not an Orbiters product or official company tool, and it is not affiliated with or endorsed by Orbiters. It is also not affiliated with Anthropic or OpenAI; Claude Code and Codex are trademarks of their respective owners.
+This is a personal project, shared in a personal capacity. It is not a product or official tool of my employer, and it is not affiliated with or endorsed by my employer. It is also not affiliated with Anthropic or OpenAI; Claude Code and Codex are trademarks of their respective owners.
 
 ## License
 
