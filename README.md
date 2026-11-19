@@ -165,6 +165,10 @@ The suite uses synthetic fixtures and retains generated files under `tests/_scra
 
 Windows 11; Python 3.14; Claude Code 2.1.30x; Codex CLI 0.153. Other versions may change the file formats the dashboard reads.
 
+## Disclaimer
+
+This is a personal project, shared in a personal capacity. It is not an Orbiters product or official company tool, and it is not affiliated with or endorsed by Orbiters. It is also not affiliated with Anthropic or OpenAI; Claude Code and Codex are trademarks of their respective owners.
+
 ## License
 
 MIT License. Copyright (c) 2026 Hyunseok Jin. See [LICENSE](LICENSE).
